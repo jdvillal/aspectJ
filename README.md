@@ -1,11 +1,11 @@
-# aspectJ
+# aspectJ Taller 2 - Jorge Villalta
 
-Jorge Villalta
 
 Se adjuntan capturas de los aspectos funcionando.
 
-FUNCIONAMIENTO DEL ASPECTO DE EJEMPLO
-
+##FUNCIONAMIENTO DEL ASPECTO INICIAL DE EJEMPLO
+Para evidencia y mas detalle ver la imagen "AspectoInicial_ejemplo.PNG"
+```
 Banco AspectJ
 ------------------------------------
 1 - Crear usuario
@@ -34,13 +34,12 @@ Banco AspectJ
 5 - Salir
 ------------------------------------
 Opcion
+```
 
 
-
-FUNCIONAMIENTO DE LOS ASPECTOS IMPLEMENTADOS EN EL TALLER
-
-
-
+##FUNCIONAMIENTO DEL ASPECTO IMPLEMENTADO EN EL TALLER
+Para mas detalle ver la imagen "AspectoImplementado_ejemplo.PNG"
+```
 Banco AspectJ
 ------------------------------------
 1 - Crear usuario
@@ -88,3 +87,4 @@ Banco AspectJ
 5 - Salir
 ------------------------------------
 Opcion
+```
